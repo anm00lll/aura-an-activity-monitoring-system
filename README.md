@@ -135,7 +135,7 @@ python -m pytest -q
 ```
 
 ## License & Contributions 🤝
-- License: MIT Licence
+- License: MIT License
 - Contributions: PRs welcome. Please include a brief description, steps to reproduce, and tests when relevant.
 Need help? Open an issue with your steps and screenshots (if possible). We’re happy to guide beginners. 😊
 
